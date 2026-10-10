@@ -1,0 +1,15 @@
+# Dependencias (Modulos de Node)
+node_modules/
+
+# Archivos de bitácora y logs de error
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Variables de entorno / Secretos (por si los usas después)
+.env
+.env.local
+
+# Carpetas de sistemas operativos
+.DS_Store
